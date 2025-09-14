@@ -1,4 +1,4 @@
-# Python Notebook - British Airway Review Dashboard
+# Python Notebook - United Airlines Review Dashboard
 
 """
 # New Notebook
