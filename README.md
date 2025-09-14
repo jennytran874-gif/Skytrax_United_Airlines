@@ -5,7 +5,7 @@ Analyzed 4,500+ United Airlines reviews (2015–2025) with SQL, Python, and Mode
 ## 1. Overview
 
 1.1 Scope
-- 4,500 United Airlines reviews from 2010 to 2023, sourced from AirlineQuality.com, covering multiple airlines.
+- 4,500 United Airlines reviews from 2015 to 2025, sourced from AirlineQuality.com, covering multiple airlines.
 
 1.2 Goal
 - Identify key drivers of customer satisfaction and convert them into targeted improvement actions.
@@ -62,3 +62,4 @@ Analyzed 4,500+ United Airlines reviews (2015–2025) with SQL, Python, and Mode
 - Premium Food Quality: Collaborate with high-end chefs to improve food quality. Enhance presentation and offer a diverse range of options to satisfy all dietary preferences.
 - Upgrade Seat Comfort: Improve seating design to ensure more comfort, with better padding and additional space for premium passengers.
 - Act on Customer Feedback: Implement a more responsive process to address passenger complaints quickly, particularly regarding food and comfort.
+
