@@ -1,5 +1,5 @@
 # Skytrax United Airlines Analysis
-![](image.png)
+![](C:\Users\Admin\Documents\SKYTRAX\Skytrax_United_Airlines\image.png)
 Analyzed 4,500+ United Airlines reviews (2015–2025) with SQL, Python, and Mode Studio. Found that Business Travelers are least satisfied, especially with value for money, while Leisure Travelers rate cabin staff and food higher. Seat comfort emerged as a universal weakness, and insights were used to guide improvement strategies.
 
 ## 1. Overview
