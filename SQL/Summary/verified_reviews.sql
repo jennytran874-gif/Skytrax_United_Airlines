@@ -1,6 +1,4 @@
-SELECT
-  COUNT(*) AS total_reviews,
-  ROUND(AVG(
+SELECT ROUND(AVG(
       CASE
         WHEN VERIFIED = TRUE THEN 1
         ELSE 0
